@@ -1,7 +1,4 @@
-# CSCI4448 
-## Finall Project
-
-### Team Names: 
+### Collaborators: 
 - **Tri Bui**
 - **Gianni Valentine**
 
